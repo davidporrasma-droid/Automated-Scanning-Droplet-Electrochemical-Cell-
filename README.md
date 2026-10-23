@@ -196,3 +196,4 @@ Before pushing a public version to GitHub:
 ## Project origin
 
 The software started as a refactor of `OCV_LSVMeshLvl.ipynb` and `sdc_mesh_leveling.py` into hardware, calibration, technique, and experiment-control modules. Its purpose is to support repeatable, grid-based electrochemical characterization and further development of a flexible scanning droplet cell automation platform.
+"# Automated-Scanning-Droplet-Electrochemical-Cell-" 

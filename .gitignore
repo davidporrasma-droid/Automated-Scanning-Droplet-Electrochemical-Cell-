@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+conda-env/
+
+# Experimental data
+SDC_Data/
+data/
+dataocv/
+datalsv/
+datacv/
+dataca/
+datacp/
+dataeis/
+experiment_log.csv
+experiment_progress.log
+experiment_metadata.json
+calibration.json
+
+# BioLogic proprietary libraries
+*.dll
+*.lib
+*.exp
+
+# Local settings and credentials
+.env
+.env.*
+config.local.*
+*.secrets.*
