@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: sdc-control
+Version: 0.1.0
+Requires-Python: >=3.10
+Requires-Dist: numpy
+Requires-Dist: requests
+Requires-Dist: pyserial
+Provides-Extra: lab
+Requires-Dist: notebook; extra == "lab"
+Requires-Dist: nest_asyncio; extra == "lab"
+Requires-Dist: easy_biologic; extra == "lab"
+Provides-Extra: test
+Requires-Dist: pytest; extra == "test"

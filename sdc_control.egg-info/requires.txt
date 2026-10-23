@@ -1,0 +1,11 @@
+numpy
+requests
+pyserial
+
+[lab]
+notebook
+nest_asyncio
+easy_biologic
+
+[test]
+pytest
